@@ -1,3 +1,4 @@
+Este framework é para proporcionar um design de código melhor na hora de você utilizar as consultas SQL dentro do código-fonte.
 
 <img src="https://raw.githubusercontent.com/nogueirawagner/querybuilder/master/PackageManager.png" style="max-width:100%;">
 
