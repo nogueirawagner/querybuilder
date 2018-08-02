@@ -6,7 +6,7 @@
 Exemplo de select e joins no C#
 <img src="https://raw.githubusercontent.com/nogueirawagner/querybuilder/master/exemplocsharp.png" style="max-width:100%;">
 
-Exemplo do resultado gerado no SQL
+Resultado dos selects gerado no SQL
 <img src="https://raw.githubusercontent.com/nogueirawagner/querybuilder/master/sql.png" style="max-width:100%;">
 
 Exemplo do uso de condicionais CASE no C# 
